@@ -1,2 +1,0 @@
-# sudoku
-software engineering work
